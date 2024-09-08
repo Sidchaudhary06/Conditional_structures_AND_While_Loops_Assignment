@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fe2569d-f895-41b3-8894-76c9b3f49267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Conditional structures (if).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional structure Ques 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques_4.py" afterDir="false" />
+    <list default="true" id="6fe2569d-f895-41b3-8894-76c9b3f49267" name="Changes" comment="Rename">
+      <change afterPath="$PROJECT_DIR$/While_Loops_Ques_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While_Loops_ques_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sidchaudhary06"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sidchaudhary06/Conditional_structures.git",
+    "accountId": "b654ac76-a6c2-4f25-852a-efe5e046f87a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -46,6 +51,7 @@
     "Python.Ques_2.executor": "Run",
     "Python.Ques_3.executor": "Run",
     "Python.Ques_4.executor": "Run",
+    "Python.While_Loops_ques_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -170,6 +176,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725796230625</updated>
     </task>
+    <task id="LOCAL-00001" summary="Rename">
+      <option name="closed" value="true" />
+      <created>1725797549011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725797549011</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
   </component>
 </project>
